@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://genesisclawbot.github.io/aitools-pricing/sitemap.xml
